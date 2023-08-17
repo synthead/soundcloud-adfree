@@ -1,0 +1,12 @@
+! Title: Soundcloud Adfree
+! Description: A list for your ad blocker to remove upsells on SoundCloud.com
+! Homepage: https://github.com/synthead/soundcloud-adfree
+
+! Block "Try Go+" link in header.
+soundcloud.com##.header__goUpsell_side_by_side_experience.header__link
+
+! Block "Try Next Pro" link in header.
+soundcloud.com##.header__proUpsell_side_by_side_experience.header__link.sc-link.creatorSubscriptionsButton
+
+! Block promotional banners.
+soundcloud.com##div.banner:has(a.nextProAnnualPromotionBanner__link)
