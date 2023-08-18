@@ -1,4 +1,4 @@
-Here's a little adblock list to hide upsells in Soundcloud!  You can still purchase Soundcloud subscriptions by temporarily disabling your ad blocker, and paid Soundcloud features will still be available with this list enabled.  This just keeps the noise down for all the times you aren't buying Soundcloud subscriptions.
+Here's a little adblock list to hide upsells in SoundCloud!  You can still purchase SoundCloud subscriptions by temporarily disabling your ad blocker, and paid SoundCloud features will still be available with this list enabled.  This just keeps the noise down for all the times you aren't buying SoundCloud subscriptions.
 
 To add this list to uBlock Origin, open uBlock's settings page and click on the "Filter lists" tab.  At the bottom of the page, expand the "Custom" tree and check the "Import..." box.  Then, add this URL to the textarea that appears:
 
